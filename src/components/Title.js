@@ -12,3 +12,11 @@ import React from 'react';
  *   </h5>
  * </div>
  */
+
+const Title = (props) => {
+    return (
+        <div>Title Placeholder</div>
+    )
+}
+
+export default Title; 

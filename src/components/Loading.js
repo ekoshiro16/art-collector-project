@@ -7,3 +7,11 @@ import React from 'react';
  *   <h2 className="message">Searching...</h2>
  * </div>
  */
+
+const Loading = (props) => {
+    return (
+        <div>Placeholder</div>
+    )
+}
+
+export default Loading;
